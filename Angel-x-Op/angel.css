@@ -1,0 +1,66 @@
+/*<!--- -------------------------------------------------- --> */
+/*<!--- --*** WOODcraft ***------------------------------------- --> */
+/*<!--- --------------------------------------------------------------- --> */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+html, body{
+    height: 100%;
+    width: 100%;
+    font-family: "Roboto", sans-serif;
+    background-color: #c7c1af;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0px -30px;
+}
+.container h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+	font-size: 30px;
+
+}
+
+#woodcraft{
+	color: #000000;
+    font:bold;
+    font-size: 25px;
+}
+
+#angel{
+	color: #000000;
+    font:bold;
+    font-size: 15px;
+}
+.button{
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 100px;
+    cursor: pointer;
+    background-color: #78a2cc;
+}
+.button:hover{
+    box-shadow: 1px 1px ;
+    
+}
+.row{
+    margin: 8px 0;
+
+}
+.row input{
+    font-size: 20px;
+    margin: 0;
+    padding: 10px 0px;
+    border: 2px solid black;
+    border-radius: 9px;
+
+}
+footer{
+	position: fixed;
+    bottom: 0;
+    width: 100vw;
+}
+
+/*<!--- -------------------------------------------------- --> */
+/*<!--- --*** WOODcraft ***------------------------------------- --> */
+/*<!--- --------------------------------------------------------------- --> */
